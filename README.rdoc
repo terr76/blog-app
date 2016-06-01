@@ -1,17 +1,8 @@
-Blog App
+Ruby on Rails blog App with Rspec3
 
-- Articles
-  - ID
-  - Title
-  - Body
+Completed - Aticles with feature tests
 
-- Users
-  - ID
-  - Email
-  - Password
-
-- Comments
-  - ID
-  - Body
-  - User_ID
-  - Article_ID
+Next:
+- Users Sign-up
+- Log in / Log out
+- Restrict access to certain features
